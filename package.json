@@ -1,0 +1,12 @@
+{
+  "name": "vanity-eth-nodejs",
+  "version": "1.0.0",
+  "description": "Ethereum Vanity Address Generator using Node.js worker_threads.",
+  "main": "vanity_main.js",
+  "scripts": {
+    "start": "node vanity_main.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.1"
+  }
+}
